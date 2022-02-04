@@ -1,9 +1,15 @@
 # Repositório_GFT_Start-4_Java_Dio
 Repositório do BootCamp GFT_Start#4_Java_Dio
 
-## Anotações decorrentes do BootCamp GFT_Start#4_Java_Dio mais especificamente sobre sintaxe, métodos, classes da linguagem java.
+## Repositório das ativdades desenvolvidas durante o Bootcamp GFT Start #4 Java da Dio.
 
-## Let's Go!
+## Com o objetivo de Implementação dos códigos  de todos os desafios do Bootcamp.
+
+## Visando meu desenvolvimento, compartilhamento e familiarização de boas práticas na utilização do Git e Github. :smile:
+
+
+
+
 
 
 
